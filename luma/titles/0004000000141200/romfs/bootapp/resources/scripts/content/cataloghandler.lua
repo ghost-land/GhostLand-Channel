@@ -15,7 +15,7 @@ function CatalogHandler:start()
 	-- conflicted with a method name
 	self.b_endOfService = false
 	self.serviceUrl1 = "https://lightning-dev.mobiclip.com/front/service"				-- NERD (used for debug)
- 	self.serviceUrlCustom = "https://example.com/catalog.json"                          -- your catalog URL goes here
+ 	self.serviceUrlCustom = "https://raw.githubusercontent.com/ghost-land/GhostLand-Channel/main/server%20side/front/catalog.json"                          -- your catalog URL goes here
 	self.serviceUrl = self.serviceUrlCustom
 	
 	-- Video player settings
