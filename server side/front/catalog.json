@@ -4,7 +4,7 @@
 		"apiVersion": "1.0",
 		"playerDevMode": false,
 		"fromCache": true,
-		"serverName": "",
+		"serverName": "Ghost Land Channel",
 		"processTime": "3.46ms",
 		"memoryUsage": "1.07 MB",
 		"memoryPeakUsage": "1.12 MB"
@@ -29,20 +29,19 @@
 		},
 		{
 			"setNode": {
-				"id": "episode:testvideo",
+				"id": "episode:trailerjpn1",
 				"version": "55d29a3bf5f0ed8b98234f2b88911f4c",
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "Online test",
-				"description": "Discord moflex link",
+				"title": "AquaMoto™ RACING 3D",
+				"description": "JPN / AquaMoto™ RACING 3D (3DS)",
 				"mediaUrls": {
-					"en": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex",
-					"fr": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex"
+					"jpn": "http://cdn.ghosteshop.com/db/3ds/videos/moflex/a6ac6a4cc05ca9a210a857b304c910caecc58e67d3d2a337ae340eb0a85376cc.moflex"
 				},
 				"viewCount": 0,
 				"imageUrls": {
-					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE01-thumbnail.3dst"
+					"default": "http://cdn.ghosteshop.com/db/3ds/videos/images/JPN%20%20AquaMoto%E2%84%A2%20RACING%203D%20%283DS%29/banner.jpg"
 				},
 				"agePrerollVideo": ""
 			}
@@ -120,7 +119,7 @@
 				},
 				"children": [
 					{
-						"id": "episode:testvideo",
+						"id": "episode:trailerjpn1",
 						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
 					},
 					{
