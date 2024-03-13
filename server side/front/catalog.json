@@ -54,10 +54,9 @@
 				"number": 2,
 				"ageRate": 0,
 				"title": "SDcard video",
-				"description": "Place the video in SD:/video.moflex",
+				"description": "3 A.M. 3D (thai audio) (english subs) (2012)",
 				"mediaUrls": {
-					"en": "sdmc:/video.moflex",
-					"fr": "sdmc:/video.moflex"
+					"en": "https://cdn.moflix.irish/3%20A.M.%203D%20(thai%20audio)%20(english%20subs)%20(2012).moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
